@@ -22,8 +22,9 @@
                 <key>optionalFeatures</key>
                 <dict>
                     <key>aggressiveUserExperience</key>
-                    <true/>
+                    <false/>
                     <key>aggressiveUserFullScreenExperience</key>
+                    <false/>
                 </dict>
                 <key>osVersionRequirements</key>
                 <array>
@@ -62,11 +63,11 @@
                     <key>maxRandomDelayInSeconds</key>
                     <integer>1200</integer>
                     <key>noTimers</key>
-                    <false/>
+                    <true/>
                     <key>nudgeRefreshCycle</key>
                     <integer>60</integer>
                     <key>randomDelay</key>
-                    <false/>
+                    <true/>
                 </dict>
                 <key>userInterface</key>
                 <dict>
